@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 
+//Syranne Jahziel M. Maestro    |   BSIT 3-4
+//APP DEV Activity #1   |   April 11, 2025
+
 namespace MAESTRO_Activity__1
 {
     internal class MyKpopRating
